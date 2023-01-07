@@ -1,0 +1,1 @@
+The code reads data from OSM and forms a tree structure Region-District-Municipality-Locality (with information about polylines-borders).  Further, the data is enriched with information about the population.
